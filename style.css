@@ -1,0 +1,37 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.logo{
+    background-image: url(img/fondo.jpg);
+    height: 8%;
+    text-align: center;
+    background-size: cover;
+    margin: 0%;
+    padding: 10%;
+}
+.logo-titulo{
+    color: orange;
+    font-size: 80px;
+    margin-top: 0px;
+    background-color: beige;
+    
+}
+
+.lista-desordenada{
+    margin: 0%;
+    padding: 0%;
+    background-color: orange;
+}
+.opciones{
+    background-color: rebeccapurple;
+    list-style: none;
+    color: bisque;
+    display: inline;
+    margin-left: 14%;
+    padding: 0%;
+    font-size: 25px;
+}
